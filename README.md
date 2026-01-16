@@ -8,7 +8,7 @@ I’m an **Economist with a Master’s degree in Applied Economics**, with exten
 
 Skills
 
-•	Languages: Spanish (native), English (B2 IELTS)
-•	Programming: Python, R, Stata, SQL
-•	Data Visualization: Power BI, Tableau, Oracle Analytics
-•	Technical: Economic Analysis, Sectoral Studies, Econometrics, Machine Learning, Data Science
+- Languages: Spanish (native), English (B2 IELTS)
+- Programming: Python, R, Stata, SQL
+-	Data Visualization: Power BI, Tableau, Oracle Analytics
+-	Technical: Economic Analysis, Sectoral Studies, Econometrics, Machine Learning, Data Science
